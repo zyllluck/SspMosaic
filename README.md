@@ -19,7 +19,7 @@ You can install the released version of SSpMosaic from Github with the following
 install.packages('devtools')
 
 # install the SSpMosaic package
-devtools::install_github('zyllluck/SSpMosaic/')
+devtools::install_github('zyllluck/SSpMosaic')
 
 # load package
 library(SSpMosaic)
