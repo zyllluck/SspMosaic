@@ -19,7 +19,7 @@ You can install the released version of SSpMosaic from Github with the following
 install.packages('devtools')
 
 # install the SSpMosaic package
-devtools::install_github('WenxuanMing/project3')
+devtools::install_github('zyllluck/SSpMosaic/')
 
 # load package
 library(SSpMosaic)
@@ -36,17 +36,17 @@ SSpMosaic tutorials are as follows.
 
 ## SSpMosaic module
 
-SSpMosaic module generation tutorial is in [generate_module](https://wenxuanming.github.io/project3/module_generation.html)
+SSpMosaic module generation tutorial is in [generate_module](https://zyllluck.github.io/SSpMosaic/module_generation.html)
 
-SSpMosaic module network-propagation tutorial is in [network-propagation](https://wenxuanming.github.io/project3/network_propagation.html)
+SSpMosaic module network-propagation tutorial is in [network-propagation](https://zyllluck.github.io/SSpMosaic/network_propagation.html)
 
 ## SSpMosaic downstream functions
 
-SSpMosaic integration tutorial is in [integration](https://wenxuanming.github.io/project3/integration_tutorial.html)
+SSpMosaic integration tutorial is in [integration](https://zyllluck.github.io/SSpMosaic/integration_tutorial.html)
 
-SSpMosaic single-cell annotation tutorial is in [sc_annotation](https://wenxuanming.github.io/project3/sc_annotation_tutorial.html)
+SSpMosaic single-cell annotation tutorial is in [sc_annotation](https://zyllluck.github.io/SSpMosaic/sc_annotation_tutorial.html)
 
-SSpMosaic deconvolution tutorial is in [deconvolution](https://wenxuanming.github.io/project3/spatial_deconvolution_tutorial.html)
+SSpMosaic deconvolution tutorial is in [deconvolution](https://zyllluck.github.io/SSpMosaic/spatial_deconvolution_tutorial.html)
 
 Issues
 ------------
