@@ -27,8 +27,7 @@ library(SSpMosaic)
 ```
 
 
-How to cite `SSpMosaic`
--------------------
+
 
 How to use `SSpMosaic`
 -------------------
