@@ -34,9 +34,9 @@ How to use `SSpMosaic`
 -------------------
 SSpMosaic tutorials are as follows.
 
-## SSpMosaic module
+## SSpMosaic program
 
-SSpMosaic module generation tutorial is in [generate_module](https://zyllluck.github.io/SSpMosaic/program_generation.html)
+SSpMosaic program generation tutorial is in [generate_module](https://zyllluck.github.io/SSpMosaic/program_generation.html)
 
 SSpMosaic module network-propagation tutorial is in [network-propagation](https://zyllluck.github.io/SSpMosaic/network_propagation.html)
 
