@@ -37,7 +37,7 @@ SSpMosaic tutorials are as follows.
 
 SSpMosaic program generation tutorial is in [generate_module](https://zyllluck.github.io/SSpMosaic/program_generation.html)
 
-SSpMosaic module network-propagation tutorial is in [network-propagation](https://zyllluck.github.io/SSpMosaic/network_propagation.html)
+SSpMosaic program network-propagation tutorial is in [network-propagation](https://zyllluck.github.io/SSpMosaic/network_propagation.html)
 
 ## SSpMosaic downstream functions
 
