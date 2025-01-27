@@ -50,7 +50,7 @@ SSpMosaic deconvolution tutorial is in [deconvolution](https://zyllluck.github.i
 Data
 ------------
 All data in tutorials can be downloaded via the following link:
-'https://drive.google.com/drive/folders/1VDpHAHBjAoKk1u8eR10A4oqMnkeSbT8c?usp=drive_link'
+https://drive.google.com/drive/folders/1VDpHAHBjAoKk1u8eR10A4oqMnkeSbT8c?usp=drive_link
 
 Issues
 ------------
